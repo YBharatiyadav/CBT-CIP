@@ -287,7 +287,7 @@
             "_view_module": "@jupyter-widgets/base",
             "_view_module_version": "1.2.0",
             "_view_name": "StyleView",
-            "bar_color": null,
+            "bar_color": None,
             "description_width": ""
           }
         },
